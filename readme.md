@@ -1,3 +1,4 @@
 add first in browser
 
-update second in browsers is amending in cli
+<<<<<<< HEAD
+update second in browsers is amending in cli and browser
